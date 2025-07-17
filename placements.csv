@@ -1,7 +1,7 @@
 College,Average Salary (LPA),Placement Percentage,Notes
 IISC CSA CSD,28.8,99,
 IISC AI,29,100,
-IISC Business Analytics,33,100,All students get salary above 20 LPA,
+IISC Business Analytics,33,100,All students get salary above 20 LPA
 IIT Bombay CSE,27,99,
 IIT Madras CSE,28,100,
 IIT Delhi CSE,23,97,
@@ -29,5 +29,5 @@ IIIT Allahabad CSE,16.9,75,
 NIT Allahabad CSE,12,65,
 IIIT Delhi CSE,11,80,
 NIT Rourkela CSE,13,76,
-Remaining IITs,14-15,60,Placement is near to 60 percent (not preferred),
-Remaining NITs,7-8,28,Placement is near to 25-30 percent (not preferred),
+Remaining IITs,14-15,60,Placement is near to 60 percent (not preferred)
+Remaining NITs,7-8,28,Placement is near to 25-30 percent (not preferred)
